@@ -38,3 +38,8 @@ _build
 
 # LSP
 pyrightconfig.json
+
+# C++ builds
+tool/deploy_mujoco_cpp/build/
+**/build/
+
